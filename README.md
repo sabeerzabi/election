@@ -34,7 +34,7 @@
 
   > npm install chai
 
-  ***
+---
 
 ## Truffle Code
 
@@ -65,7 +65,7 @@ or
 
 ## Run Dev
 
-> npm run dev `start web server`
+> npm run dev `//start web server`
 
 ---
 
